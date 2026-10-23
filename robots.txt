@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adminchatmariano.github.io/sitemap.xml
+Sitemap: https://marianohortiguela.github.io/sitemap.xml
